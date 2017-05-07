@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "mongodb": "^2.2.26",
+    "restify": "^4.3.0"
+  },
+  "name": "luisdemo",
+  "version": "1.0.0",
+  "description": "for luis",
+  "main": "LUISdialog.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
