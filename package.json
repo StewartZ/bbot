@@ -10,7 +10,7 @@
   "main": "LUISdialog.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node LUISdialog.js"
   },
   "author": "",
   "license": "ISC"
